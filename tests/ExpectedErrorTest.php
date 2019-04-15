@@ -11,4 +11,3 @@ class ExpectedErrorTest extends TestCase
         include 'not_existing_file.php';
     }
 }
-?>

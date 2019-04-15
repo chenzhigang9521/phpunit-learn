@@ -15,4 +15,3 @@ class DependencyFailureTest extends TestCase
     {
     }
 }
-?>

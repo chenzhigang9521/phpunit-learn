@@ -15,4 +15,3 @@ class OutputTest extends TestCase
         print 'baz';
     }
 }
-?>

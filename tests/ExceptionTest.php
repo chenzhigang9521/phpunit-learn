@@ -10,4 +10,3 @@ class ExceptionTest extends TestCase
     {
     }
 }
-?>

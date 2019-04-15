@@ -27,4 +27,3 @@ class MultipleDependenciesTest extends TestCase
         );
     }
 }
-?>

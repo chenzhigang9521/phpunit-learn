@@ -21,5 +21,3 @@ class DataTest extends TestCase
         ];
     }
 }
-?>
-
