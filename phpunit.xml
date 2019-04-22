@@ -12,7 +12,7 @@
 	</logging>
 	<testsuites>
 		<testsuite name="FunctionTest">
-            <directory>./tests/subTest/</directory>
+            <directory>./tests/subObjectTest/</directory>
 			<!-- <exclude>./tests/OSS/Tests/BucketCnameTest.php</exclude> -->
 			<!-- <file>./tests/DatabaseTest.php</file> -->
 		</testsuite>
